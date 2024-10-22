@@ -1,0 +1,211 @@
+general
+E : element
+C : class
+ID : ID
+
+1.html E
+2.*  E
+3.row  C
+4.section  E
+5.a E
+
+
+1.one  C Done
+2.nav_left  C Done
+3.nav_logo  C done
+4.nav_logoLink C done
+5.nav_right  C done
+6.nav_link_normal  C done
+7.nav_link_abnormalOne  C done
+8.nav_link_abnormalTwo  C done
+
+css-line : 100
+html-line : 27
+
+1.two
+2.sectionTwo_leftside C
+3.sectionTwo_rightside C
+4.SectionTwo_rightside_img C
+5.sectionTwo_leftside_header C
+6.sectionTwo_leftside_para C
+7.sectionTwo_leftside_emailSec C
+8.sectionTwo_leftside_trustedcustomerText C
+9.sectionTwo_leftside_trustedcustomerimg C
+10.sectionTwo_leftside_emailInput C
+11.sectionTwo_leftside_emailBtn C
+12.sectionTwo_leftside_span C
+13.sectionTwo_leftside_trustedcustomer_section C
+
+css-line : 102 - 197
+html-line : 27 - 45
+
+1.three C
+2.section_three_top C
+3.section_three_bottom C
+4.section_three_featureText C
+5.section_three_mainTitle C
+6.section_three_LittleSmokedpara C
+7.section_three_oneFeature_Block C
+8.section_three_oneFeature_Block_img C
+9.section_three_oneFeature_Block_text C
+10.section_three_oneFeature_Block_text_header C
+11.section_three_oneFeature_Block_text_para C
+12.section_three_oneFeature_Block_img_actual C
+
+css-line : 197 - 285
+html-line : 45 - 123
+
+1.four C
+2.section_four_left C
+3.section_four_left_quality C
+4.section_four_left_header C
+5.section_four_left_para C
+6.section_four_button C
+7.section_four_right C
+8.section_four_right_img C
+
+css-line : 285 - 357
+html-line : 123 - 138
+
+1.five C
+2.section_five_left C
+3.section_five_left_img C
+4.section_five_right C
+5.section_five_right_steps C
+6.section_five_right_header C
+7.section_five_right_one_Step C
+8.section_five_right_one_step_number C
+9.section_five_right_one_Step_text C
+10.section_five_right_one_Step_text_title C
+11.section_five_right_one_Step_text_para C
+
+css-line : 357 - 434
+html-line : 138 - 175
+
+1.six C
+2.section_six_left C
+3.section_six_left_values C
+4.section_six_left_header C
+5.section_six_left_para C
+6.section_six_left_values_section C
+7.section_six_left_affordable C
+8.section_six_left_Professionalism C
+9.section_six_right C
+10.section_six_right_img C
+11.section_six_left_affordable_para C
+12.section_six_left_affordable_logo_header C
+13.affordable C
+14.section_six_left_Professionalism_para C
+15.section_six_left_Professionalism_logo_header C
+16.Professionalism C
+
+css-line : 434 - 540
+html-line : 175 - 213
+
+1.seven C
+2.section_seven_top C
+3.pricing_section_seven C
+4.mainheader_section_seventop C
+5.para_section_seven_top C
+6.section_seven_bottom C
+7.card1 C
+8.card_coloredstrip1 C
+9.main_card_sections1 C-
+10.card_price1 C
+11.card_forwho1 C
+12.card_forwho1_who C
+13.card_forwho1_desc C
+14.card_buynow1 C-
+15.card_buynow1_btn
+16.card2 C
+17.card_coloredstrip2 C
+18.main_card_sections2 C-
+19.card_price2 C
+20.card_forwho2 C
+21.card_forwho2_who C
+22.card_forwho2_desc C
+23.card_buynow2 C-
+24.card_buynow2_btn C-
+25.card3 C
+26.card_coloredstrip3 C
+27.main_card_sections3 C-
+28.card_price3 C
+29.card_forwho3 C
+30.card_forwho3_who C
+31.card_forwho3_desc C
+32.card_buynow3 C-
+33.card_buynow3_btn C-
+34.card_price1_text1 C
+35.card_price1_text2 C
+36.card_price1_text3 C
+37.card_price2_text1 C
+38.card_price2_text2 C
+39.card_price2_text3 C
+40.card_price3_text1 C
+41.card_price3_text3 C
+
+css-line : 540 - 769
+html-line : 213 - 294
+
+1.eight C
+2.section_eight_left C
+3.section_eight_left_img C
+4.section_eight_right C
+5.eight_right_one C
+6.eight_right_two C
+7.eight_right_three C
+8.eight_right_four C
+9.eight_right_five C
+10.eight_right_six C
+11.section_eight_person C
+12.person_pfp C
+13.person_textpart C
+14.person_textpart_main C
+15.person_textpart_para C
+16.eight_person_left C
+17.eight_person_right C
+18.section_eight_person_one C
+19.section_eight_person_two C
+20.divider C
+
+css-line : 769 - 909
+html-line : 294 - 326
+
+nine C
+section_nine_purple C
+section_nine_left C
+section_nine_left_text C
+section_nine_right C
+section_nine_right_btn_one C
+section_nine_right_btn_two C
+
+css-line : 909 - 991
+html-line : 326 - 338
+
+ten C
+ten_sections_holder C
+ten_top C
+ten_col_1 C
+ten_col_2 C
+ten_col_3 C
+ten_col_4 C
+ten_col_5 C
+ten_middle C
+ten_end C
+ten_logo_cluster C
+ten_button_cluster C
+ten_generic_elem_text C
+ten_generic_elem_title C
+ten_logo C
+ten_logo_text C
+copyright C
+ten_buttons C
+
+css-line : 991 - 1112
+html-line : 338 - 394
+
+phone_menu_btn 
+phone_burger_menu_itself  C
+burg_menu_text 
+burger_menu_btn 
+visible 
